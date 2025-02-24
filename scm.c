@@ -10,7 +10,7 @@ void multiplica(int a, int b) {
 
 void divide(int a, int b){
     if(b == 0){
-        printf("o numero nao pode ser dividido por zero");
+        printf("o numero nao pode ser dividido por zero!");
     }else{
         printf("%f", (a/b));
     }
